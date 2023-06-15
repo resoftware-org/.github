@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://resoftware.es/wp-content/uploads/reSoftware-S.L.-Facebook-Cover-New.png" width="350" />
+  <img src="https://resoftware.es/wp-content/uploads/reSoftware-S.L.-Facebook-Cover-New.png" width="550" />
   <h2>Welcome to re:Software S.L.!</h2>
 </div>
 
